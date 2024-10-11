@@ -1,3 +1,4 @@
 conversions needed:
 - dollars to cents
 - hours to minutes
+- dollars to euros
